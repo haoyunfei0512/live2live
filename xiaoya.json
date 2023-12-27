@@ -1,0 +1,66 @@
+[
+{
+	"name": "ä¸«ä»™å¥³",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+	"name": "æ¯æ—¥æ›´æ–°",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/æ¯æ—¥æ›´æ–°",
+	"showAll": false,
+	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+	"name": "ç”µå½±",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/ç”µå½±",
+	"showAll": false,
+	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+	"name": "ç”µè§†å‰§",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/ç”µè§†å‰§",
+	"showAll": false,
+	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+	"name": "ç»¼è‰º",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/ç»¼è‰º",
+	"showAll": false,
+	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+	"name": "çºªå½•ç‰‡",
+	"server": "http://124.70.181.110:5678/",
+	"startPage": "/çºªå½•ç‰‡",
+	"showAll": false,
+	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+    	"name": "åŠ¨æ¼«",
+    	"server": "http://124.70.181.110:5678/",
+    	"startPage": "/åŠ¨æ¼«",
+    	"showAll": false,
+    	"search": false,
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+},
+{
+        "name": "å„¿ç«¥",
+        "server": "http://124.70.181.110:5678/",
+        "startPage": "/åŠ¨æ¼«/å„¿ç«¥",
+        "showAll": false,
+        "search": false,
+        "params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+}
+]
