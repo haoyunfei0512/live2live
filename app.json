@@ -176,23 +176,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "push_agent",
-      "name": "❌推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "api": "csp_fan",
-      "changeable": 0,
-      "key": "cc",
-      "name": "❌请勿相信视频中任何广告",
-      "quickSearch": 0,
-      "searchable": 0,
-      "type": 3
     }
   ],
   "doh": [
