@@ -1,6 +1,6 @@
 [
 {
-	"name": "ä¸«ä»™å¥³",
+	"name": "小雅",
 	"server": "http://124.70.181.110:5678/",
 	"startPage": "/",
 	"showAll": false,
@@ -8,57 +8,57 @@
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-	"name": "æ¯æ—¥æ›´æ–°",
+	"name": "每日更新",
 	"server": "http://124.70.181.110:5678/",
-	"startPage": "/æ¯æ—¥æ›´æ–°",
+	"startPage": "/每日更新",
 	"showAll": false,
 	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-	"name": "ç”µå½±",
+	"name": "电影",
 	"server": "http://124.70.181.110:5678/",
-	"startPage": "/ç”µå½±",
+	"startPage": "/电影",
 	"showAll": false,
 	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-	"name": "ç”µè§†å‰§",
+	"name": "电视剧",
 	"server": "http://124.70.181.110:5678/",
-	"startPage": "/ç”µè§†å‰§",
+	"startPage": "/电视剧",
 	"showAll": false,
 	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-	"name": "ç»¼è‰º",
+	"name": "综艺",
 	"server": "http://124.70.181.110:5678/",
-	"startPage": "/ç»¼è‰º",
+	"startPage": "/综艺",
 	"showAll": false,
 	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-	"name": "çºªå½•ç‰‡",
+	"name": "纪录片",
 	"server": "http://124.70.181.110:5678/",
-	"startPage": "/çºªå½•ç‰‡",
+	"startPage": "/纪录片",
 	"showAll": false,
 	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-    	"name": "åŠ¨æ¼«",
+    	"name": "动漫",
     	"server": "http://124.70.181.110:5678/",
-    	"startPage": "/åŠ¨æ¼«",
+    	"startPage": "/动漫",
     	"showAll": false,
     	"search": false,
 	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
 },
 {
-        "name": "å„¿ç«¥",
+        "name": "儿童",
         "server": "http://124.70.181.110:5678/",
-        "startPage": "/åŠ¨æ¼«/å„¿ç«¥",
+        "startPage": "/动漫/儿童",
         "showAll": false,
         "search": false,
         "params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
