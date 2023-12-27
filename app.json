@@ -11,6 +11,23 @@
       "filterable": 0
     },
     {
+      "key": "csp_XiaoYa",
+      "name": "小雅",
+      "type": 3,
+      "api": "csp_XiaoYa",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "jar": "http://218.79.116.9:9245/spring.jar",
+      "ext": "eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==",
+      "viewType": {
+        "style": {
+          "type": "rect"
+        }
+      }
+    },
+    {
       "key": "Wogg",
       "name": "☁️阿里云盘",
       "type": 3,
