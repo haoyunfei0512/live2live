@@ -12,7 +12,7 @@
     },
     {
       "key": "Alist",
-      "name": "📀小雅6",
+      "name": "📀小雅",
       "type": 3,
       "api": "http://124.70.181.110:5678/tvbox/libs/alist.min.js",
       "searchable": 1,
