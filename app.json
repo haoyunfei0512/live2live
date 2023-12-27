@@ -11,21 +11,14 @@
       "filterable": 0
     },
     {
-      "ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
-      "filterable": 1,
-      "quickSearch": 1,
-      "name": "📀小雅22",
-      "viewType": {
-        "style": {
-          "type": "rect"
-        }
-      },
-      "changeable": 0,
-      "jar": "http://27.14.12.234:4567/spring.jar",
-      "api": "csp_XiaoYa",
+      "key": "Alist",
+      "name": "📀小雅6",
       "type": 3,
-      "key": "csp_XiaoYa",
-      "searchable": 1
+      "api": "http://124.70.181.110:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://124.70.181.110:5678/tvbox/json/alist.json;200;video"
     },
     {
       "key": "Wogg",
