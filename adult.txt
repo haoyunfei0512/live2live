@@ -107,8 +107,7 @@ CCTV-17   2K,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 
-湖南卫视,https://node1.olelive.com:6443/live/HNHD/hls.m3u8
-
+湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
 
 湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
