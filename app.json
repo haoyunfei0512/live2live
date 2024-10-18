@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://github.com/haoyunfei0512/live2live/blob/main/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+  "spider": "https://mirror.ghproxy.com/https://github.com/qist/tvbox/blob/65a2ecf0e5c0b6a63225151f6a63992c330c6fb7/jar/fan.txt;md5;ce37642e140a829d57496a32d8fcc648",
   "sites": [
     {
       "key": "豆豆",
@@ -21,6 +21,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haoyunfei0512/live2live/main/xiaoya.json;200;video"
     },
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+    {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "河马",
       "name": "👀河马┃App",
