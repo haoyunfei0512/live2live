@@ -20,27 +20,8 @@
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haoyunfei0512/live2live/main/xiaoya.json;200;video"
     },
-    {
-      "key": "NanGua",
-      "name": "🍔南瓜|弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://mirror.ghproxy.com/https://github.com/qirenzhidao/tvbox18/blob/7d85e1ad35f23575b8306fd045dc9481bbce6d3d/pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
-      "ext": "null$$$1"
-    },
-    {"key":"玩偶哥哥","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.net/$$$弹"},
-    {
-      "key": "csp_WoGG",
-      "name": "🎈玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+    {"key":"玩偶哥","name":"玩偶哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
+    {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "河马",
       "name": "👀河马┃App",
