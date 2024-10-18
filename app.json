@@ -11,14 +11,13 @@
       "filterable": 0
     },
     {
-      "key": "Alist",
+      "key": "AList",
       "name": "📀小雅",
       "type": 3,
-      "api": "http://124.70.181.110:5678/tvbox/libs/alist.min.js",
+      "api": "csp_AList",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haoyunfei0512/live2live/main/xiaoya.json;200;video"
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haoyunfei0512/live2live/main/xiaoya.json"
     },
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
