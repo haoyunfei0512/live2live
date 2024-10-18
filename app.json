@@ -30,7 +30,7 @@
       "jar": "https://mirror.ghproxy.com/https://github.com/qirenzhidao/tvbox18/blob/7d85e1ad35f23575b8306fd045dc9481bbce6d3d/pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
       "ext": "null$$$1"
     },
-    {"key":"玩偶哥哥","name":"👽玩偶哥哥┃已修复断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+    {"key":"玩偶哥哥","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.net/$$$弹"},
     {
       "key": "csp_WoGG",
       "name": "🎈玩偶┃4K弹幕",
@@ -48,25 +48,6 @@
       "api": "csp_Hmys",
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn"
-    },
-    {
-      "key": "忍者",
-      "name": "🐜忍者┃App",
-      "type": 3,
-      "api": "csp_MYYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://rzys.xyz"
-    },
-    {
-      "key": "一起看 ",
-      "name": "🎉一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     }
   ],
   "doh": [
